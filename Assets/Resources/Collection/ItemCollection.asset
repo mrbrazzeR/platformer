@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96256b9d678240f48a0ba7e6d566e35e, type: 3}
+  m_Name: ItemCollection
+  m_EditorClassIdentifier: 
+  itemSprites:
+  - id: 0
+    icon: {fileID: 21300000, guid: de8d855645fc0bf4798cb1bb8c3e2716, type: 3}
+    name: body_blue
+    itemType: 2
+  - id: 1
+    icon: {fileID: 21300000, guid: ca5ec2f8fa399a842810701d229ae248, type: 3}
+    name: body_brown
+    itemType: 2
+  - id: 2
+    icon: {fileID: 21300000, guid: 8813ff529f36a5542b63647547a4e7a1, type: 3}
+    name: body_grey
+    itemType: 2
+  - id: 3
+    icon: {fileID: 21300000, guid: f68e95fc0dc60c9429cb9d4f8fe9fa66, type: 3}
+    name: head_blue
+    itemType: 3
+  - id: 4
+    icon: {fileID: 21300000, guid: 7f092f6d9a86a6f42b94b9d2112da9f6, type: 3}
+    name: head_brown
+    itemType: 3
+  - id: 5
+    icon: {fileID: 21300000, guid: 129c156ffa492b24590aa271231715e2, type: 3}
+    name: hammer
+    itemType: 0
+  - id: 6
+    icon: {fileID: 21300000, guid: 035ec17270263c344af98b8c17f68214, type: 3}
+    name: club
+    itemType: 0
+  - id: 7
+    icon: {fileID: 21300000, guid: 61651e3f1cba87545b99cd2c775ad650, type: 3}
+    name: left_gloves_brown
+    itemType: 1
+  - id: 8
+    icon: {fileID: 21300000, guid: aead6fecf10c0c841bb3e910ba4b0716, type: 3}
+    name: right_hand_brown
+    itemType: 1
+  - id: 9
+    icon: {fileID: 21300000, guid: 38c97cc60c3b1414eafa3bae89e5e4fb, type: 3}
+    name: left_hand_blue
+    itemType: 1
+  - id: 10
+    icon: {fileID: 21300000, guid: 9f21d2b624d7c1e4f823d68765569169, type: 3}
+    name: right_hand_blue
+    itemType: 1
+  - id: 11
+    icon: {fileID: 21300000, guid: 5d28d3267631ac848a160237766e0f21, type: 3}
+    name: armored_club
+    itemType: 0
+  - id: 12
+    icon: {fileID: 21300000, guid: 01d9f89a10ed5794286fb753c7004b36, type: 3}
+    name: grey_head
+    itemType: 3
+  - id: 13
+    icon: {fileID: 21300000, guid: 1c04fcce1a8c9394baee0b4c81d5cc13, type: 3}
+    name: left_grey_gloves
+    itemType: 1
+  - id: 14
+    icon: {fileID: 21300000, guid: 71e29c463f2f7114dad3bd4b2d7aa7ac, type: 3}
+    name: right_grey_gloves
+    itemType: 1
